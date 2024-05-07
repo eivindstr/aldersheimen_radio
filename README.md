@@ -1,2 +1,3 @@
-Run rtTransmitter to transmit.
-Run soundReceiver to receive.
+Run **rtTransmitter** to transmit.
+
+Run **soundReceiver** to receive.
